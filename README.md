@@ -27,10 +27,10 @@ Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zhixiaoqiang&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ccz-Eric&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zhixiaoqiang&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ccz-Eric&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
