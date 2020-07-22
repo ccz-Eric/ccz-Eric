@@ -1,10 +1,10 @@
-### Hi there, I'm [Zhixiaoqiang!](https://zhixiaoqiang.github.io) 👋
+### Hi there, I'm [ccz-Eric!](https://ccz-Eric.github.io) 👋
 
-![](https://komarev.com/ghpvc/?username=zhixiaoqiang&color=green)
+![](https://komarev.com/ghpvc/?username=ccz-Eric&color=green)
 
 <br />
 
-Hi, I'm Zhixiaoqiang, a passionate self-taught frontEnd web developer from China.
+Hi, I'm ccz-Eric, a passionate self-taught frontEnd web developer from China.
 
 - 🔭 I’m currently working on my project xx
 - 🌱 I’m currently learning Egg & Typescript
