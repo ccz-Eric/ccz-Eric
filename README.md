@@ -1,8 +1,17 @@
-### Hi there, I'm [ccz-Eric!](https://ccz-Eric.github.io) 👋
+### Hi there, I'm [BARMPlus!](https://BARMPlus.github.io) 👋
 
-![](https://komarev.com/ghpvc/?username=ccz-Eric&color=green)
+![](https://komarev.com/ghpvc/?username=BARMPlus&color=green)
 
-<br />
+- 🔭 I’m currently working on my project dna
+- 🌱 I’m currently learning Vue3 & Typescript
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <!--- 
   if you have forked this to use on your profile, 
@@ -15,10 +24,10 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ccz-Eric&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BARMPlus&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ccz-Eric&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BARMPlus&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
