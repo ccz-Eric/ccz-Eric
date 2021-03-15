@@ -27,13 +27,13 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BARMPlus&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BARMPlus&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BARMPlus&show_icons=true&theme=radical&line_height=40" alt="Anurag's github stats" />
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhixiaoqiang&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BARMPlus&repo=github-readme-stats&theme=radical" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zhixiaoqiang&repo=anuraghazra.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BARMPlus&repo=anuraghazra.github.io&theme=radical" />
 </a>
  -->
